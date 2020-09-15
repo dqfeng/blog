@@ -83,6 +83,10 @@
   height: 20px;
   margin: 5px 0 0 0;
 }
+.leancloud_visitors {
+  margin: 0 0 5px 0;
+  color: color-red;
+}
 ::selection {
   background: #42b983;
   color: #fff;
